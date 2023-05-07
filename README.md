@@ -1,4 +1,4 @@
-﻿# 河北科技大学的宿舍网自动连接器
+﻿# FCIP-Hebust-Net-keeper
 
    ![VSCODE Logo](https://github.com/Pretend-to/Hebust-Networker-Keeper/blob/main/.gitignore/logo.gif?raw=true)
 
