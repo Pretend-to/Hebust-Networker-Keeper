@@ -8,7 +8,7 @@
 
 推荐 [点击加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BPVotGnSlCdy9AWXKSw4WlY6XjgJ2Z7O&authKey=4Obq%2FxNAuF7qL3z96uXMoV8KqxiSbtTCbEjYIer38ZW6%2F%2BERcJMTg90BhGRh2iQJ&noverify=0&group_code=798543340) (链接异常的话也可以搜索群号798543340)群里也有些类似chatgpt机器人什么别的项目。
 ## 写在前面
-写这个的缘由就是装了个win11准备扔宿舍当服务器，结果发现这个校园网总是断联，同时发现部分同学在挂机刷网课的时候也遇到了这种问题，干脆写个小python解决一下。
+写这个的缘由就是给远古小米8装了个win11准备扔宿舍当服务器，结果发现这个校园网总是断联，同时发现部分同学在挂机刷网课的时候也遇到了这种问题，干脆写个小python解决一下。
 
 ***目前只支持联通！***
 
